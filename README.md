@@ -68,7 +68,7 @@ To sync governance updates:
 | `audit-integrity` | Skill | Integrity audit |
 | `arch` | Plugin | Architecture diagrams |
 
-See `.github/copilot-instructions.md` and the [governance hooks registry](https://github.com/lowcodai/itshaker-copilot-governance/blob/main/docs/awesome-copilot-map.md) for the full list of hooks in use.
+See `.github/copilot-instructions.md` for this repo's full active hooks list, and the [governance hooks registry](https://github.com/lowcodai/itshaker-copilot-governance/blob/main/docs/awesome-copilot-map.md) for the full ecosystem-wide catalog.
 
 ## References
 
