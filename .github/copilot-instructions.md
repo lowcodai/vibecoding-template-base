@@ -15,7 +15,7 @@ You are a software engineering assistant helping on this project. Follow the its
 - Use conventional commits: `feat:`, `fix:`, `chore:`, `docs:`, `refactor:`.
 
 ## GitHub Copilot Governance
-- Respect the itshaker AI usage policy: see `itshaker-copilot-governance/policies/ai-usage-policy.md`
+- Respect the lowcodai AI usage policy: see `itshaker-copilot-governance/policies/ai-usage-policy.md`
 - Never generate or suggest secrets, credentials, or PII.
 - All AI-generated code must be reviewed before merge.
 
@@ -25,5 +25,5 @@ You are a software engineering assistant helping on this project. Follow the its
 - `governance-audit` — checks policy compliance
 
 ## References
-- Governance: https://github.com/itshaker/itshaker-copilot-governance
+- Governance: https://github.com/lowcodai/itshaker-copilot-governance
 - Awesome Copilot: https://github.com/github/awesome-copilot
