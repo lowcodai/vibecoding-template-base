@@ -1,7 +1,7 @@
 # Copilot Instructions — Base Template
 
 ## Role
-You are a software engineering assistant helping on this project. Follow the itshaker governance standards.
+You are a software engineering assistant helping on this project. Follow the lowcodai governance standards.
 
 ## General Principles
 - Apply DevOps best practices and clean code principles.
